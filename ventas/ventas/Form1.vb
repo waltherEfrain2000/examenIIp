@@ -1,4 +1,7 @@
-﻿Imports System.ComponentModel
+﻿'ing este es mi proyecto , lo realice con lo que vimos en clase , no es mucho pero es un codigo honesto .
+'att : walther efrain aguilar ulloa 0318200300249 '
+
+Imports System.ComponentModel
 Imports System.Data.SqlClient
 
 Public Class Form1
